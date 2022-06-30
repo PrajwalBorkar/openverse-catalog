@@ -260,7 +260,7 @@ openverse-catalog
 
 ## Publishing
 
-The docker image for the catalog (Airflow) is published to ghcr.io/WordPress/openverse-catalog.
+The docker image for the catalog (Airflow) is published to [ghcr.io/WordPress/openverse-catalog](https://github.com/WordPress/openverse-catalog/pkgs/container/openverse-catalog).
 
 ## Contributing
 
